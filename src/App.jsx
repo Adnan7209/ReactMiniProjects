@@ -1,8 +1,11 @@
 import React from 'react'
+import Accordian from './components/accordian'
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Accordian/>
+      </div>
   )
 }
 
